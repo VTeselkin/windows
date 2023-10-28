@@ -1,0 +1,20 @@
+{
+  "name": "com.gamesoft.windows",
+  "displayName": "Game Soft Windows Support Manager",
+  "version": "1.0.0",
+  "description": "Support game package",
+  "category": "GameSoft",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VTeselkin/windows.git"
+  },
+  "keywords": [
+    "Unity",
+    "UPM"
+  ],
+  "dependencies": {
+    "com.gamesoft.tools": "1.0.5"
+  },
+  "author": "VTeselkin",
+  "license": "UNLICENSED"
+}

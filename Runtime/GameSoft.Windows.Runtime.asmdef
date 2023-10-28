@@ -1,0 +1,18 @@
+{
+    "name": "windows",
+    "rootNamespace": "",
+    "references": [
+        "GUID:37b96417d4bb54a69a992b0480f0c5b8",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:7a03b7411acb592419ca046e2f92089e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
